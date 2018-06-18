@@ -43,6 +43,7 @@ I recommend that we have Katie Zhao draw something super sick for the background
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_marginBottom="151dp"
+        android:onClick="openSignUpPage"
         android:text="Sign Up" />
 <!--
 These buttons look kind of gross. We need to make this look nicer.

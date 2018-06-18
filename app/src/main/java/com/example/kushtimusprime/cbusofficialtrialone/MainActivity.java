@@ -22,4 +22,8 @@ public class MainActivity extends AppCompatActivity {
         Intent signInPage=new Intent(this,SignInPageActivity.class);
         startActivity(signInPage);
     }
+    public void openSignUpPage(View view) {
+        Intent signUpPage=new Intent(this,SignUpPageActivity.class);
+        startActivity(signUpPage);
+    }
 }
