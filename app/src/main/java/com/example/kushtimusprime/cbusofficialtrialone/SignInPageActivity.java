@@ -21,7 +21,7 @@ public class SignInPageActivity extends AppCompatActivity {
     public void loginTry(View view) {
         username=(EditText)findViewById(R.id.userNameEditText);
         password=(EditText)findViewById(R.id.passwordEditText);
-        if(username.getText().toString().equals("user")&&password.getText().toString().equals("password")) {
+        if(username.getText().toString().equals("username")&&password.getText().toString().equals("password")) {
             Toast.makeText(this,"You got it",Toast.LENGTH_SHORT).show();
         } else {
             Toast.makeText(this,"You failed it",Toast.LENGTH_SHORT).show();
