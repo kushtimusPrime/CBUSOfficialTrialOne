@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "31637301216",
+    "firebase_url": "https://cbusofficialtrialone.firebaseio.com",
+    "project_id": "cbusofficialtrialone",
+    "storage_bucket": "cbusofficialtrialone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31637301216:android:4c79f41ec75480f0",
+        "android_client_info": {
+          "package_name": "com.example.kushtimusprime.cbusofficialtrialone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31637301216-bb919p7duce1nn5ttheu617l1ce3lsv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kushtimusprime.cbusofficialtrialone",
+            "certificate_hash": "c6d4c74a2839a81dc4ddc62910f40c8f1a480009"
+          }
+        },
+        {
+          "client_id": "31637301216-5mlsaen6ium5tj6la2r2iv8rd5um3799.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "31637301216-5mlsaen6ium5tj6la2r2iv8rd5um3799.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxqKGm5wSS22-ftpbtdrXdKFXIL-4vB9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31637301216-5mlsaen6ium5tj6la2r2iv8rd5um3799.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
